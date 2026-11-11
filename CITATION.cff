@@ -1,21 +1,22 @@
-   cff-version: 1.2.0
-   message: "If you use this software, please cite it using the metadata below."
-   title: "Study of the greedy algorithm for constructing an oriented hierarchy"
-   type: software
-   authors:
-     - family-names: ANDRIANARIVONY
-       given-names: FIDY HERITIANA
-   repository-code: "https://github.com/Fidy-Heritiana/Study-of-the-greedy-algorithm-for-constructing-an-oriented-hierarchy"
-   url: "https://github.com/Fidy-Heritiana/Study-of-the-greedy-algorithm-for-constructing-an-oriented-hierarchy"
-   abstract: "Python code accompanying a study of the greedy algorithm for constructing an oriented hierarchy in statistical implicative analysis, compared with Gras's original algorithm: time complexity, class construction phase, and the gap between the two algorithms measured by the Jaccard distance."
-   keywords:
-     - statistical implicative analysis
-     - greedy algorithm
-     - oriented hierarchy
-     - Gras algorithm
-     - Jaccard distance
-     - time complexity
-     - simulation
-   license: MIT
-   version: 1.0.0
-   date-released: 2026-11-11
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Study of the greedy algorithm for constructing an oriented hierarchy"
+type: software
+authors:
+  - family-names: ANDRIANARIVONY
+    given-names: FIDY HERITIANA
+repository-code: "https://github.com/Fidy-Heritiana/Study-of-the-greedy-algorithm-for-constructing-an-oriented-hierarchy"
+url: "https://github.com/Fidy-Heritiana/Study-of-the-greedy-algorithm-for-constructing-an-oriented-hierarchy"
+abstract: "Python code accompanying a study of the greedy algorithm for constructing an oriented hierarchy in statistical implicative analysis, compared with Gras's original algorithm: time complexity, class construction phase, and the gap between the two algorithms measured by the Jaccard distance."
+keywords:
+  - statistical implicative analysis
+  - greedy algorithm
+  - oriented hierarchy
+  - Gras algorithm
+  - Jaccard distance
+  - time complexity
+  - simulation
+license: MIT
+version: 1.0.0
+date-released: 2026-11-11
+doi: 10.5281/zenodo.24129903
