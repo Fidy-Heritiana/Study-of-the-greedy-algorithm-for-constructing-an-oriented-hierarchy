@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Andrianarivony
+  given-names: Fidy Heritiana
+orcid: https://orcid.org/0009-0008-5371-3262
+title:Study of the greedy algorithm for constructing an oriented hierarchy
+version: v1.0.0
+date-released: 2026-11-11
+                            
