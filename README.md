@@ -35,4 +35,5 @@ python run_all.py
 
 ## Online demo
 
-Click a badge above to run `demo.ipynb` in your browser, without installing anything. Colab starts in a few seconds. The first Binder launch can take a few minutes while the environment is built.
+   - **Streamlit app**: explore the algorithms interactively (parameters, alpha sweep, runtime comparison) at https://VOTRE-APP.streamlit.app
+   - **Colab / Binder**: run `demo.ipynb` in your browser, without installing anything.
