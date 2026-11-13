@@ -30,4 +30,5 @@ python run_all.py
 
 ## Online demo
 
-Coming soon.
+   - **Streamlit app**: explore the algorithms interactively (parameters, alpha sweep, runtime comparison) at https://VOTRE-APP.streamlit.app
+   - **Colab / Binder**: run `demo.ipynb` in your browser, without installing anything.
